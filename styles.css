@@ -1,0 +1,29 @@
+
+/* styles css */ 
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: inherit;
+    width: 500px;
+}
+
+.alert-text {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;    
+}
